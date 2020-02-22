@@ -1,0 +1,48 @@
+Run Motor FOC wizard first, then modify the following settings:
+
+Motor Settings > General
+    General
+        Motor Type                  FOC
+        Sensor Port Mode            Hall Sensors
+        ABI Encoder Counts          8192
+
+    Current
+        Max Motor Current           39.12 A
+        Max Motor Brake Current     -39.12 A
+        Absolute Max Current        120 A
+
+        Max Battery Current         60 A
+        Max Battery Regen Current   -9.9 A
+
+    Voltage
+        Battery Cutoff Start        30.6 V  (3.4V/cell, 9S)
+        Battery Cutoff End          27.0 V  (3V/cell, 9S)
+
+    RPM
+        Max ERPM                    4900 rpm
+        Max ERPM Reverse            -2450 rpm
+
+    Wattage
+        Maximum Wattage             2000 W
+        Maximum Braking Wattage     -2000 W
+
+Run input wizard first with PPM input, then modify the following settings:
+
+Motor Settings > PID Controllers
+    Minimum ERPM    70 rpm
+
+App Settings > General
+    App to Use                      PPM and UART
+
+App Settings > PPM
+    General
+        Control Type                PID Speed Control
+        Median Filter               True
+        Safe Start                  True
+        PID Max ERPM                4900 rpm
+
+    Mapping
+        Pulselength Start           0.1 ms
+        Pulselength End             0.9 ms
+        Pulselength Center          0.65 ms
+        Input Deadband              15%
