@@ -1,0 +1,64 @@
+Autotank v1 BOM,,,,,
+Qty.,Part,Description,Vendor,Vendor P/N,Price
+1,Bottom Plate,"aluminum sheet metal, 0.050"" thick, 24"" x 36""",McMaster,8973K477,$47.91
+2,Side Plate,"aluminum plate, 1/4"" thick, 12' x 36""",McMaster,8975K142,$69.02
+8,Road Wheel Spacer,"steel tube, 7/16"" OD, 0.322"" ID, 72"" length",McMaster,89955K128,$40.31
+4,Road Wheel Support Tube,,,,
+2,Idler Pulley Spacer,,,,
+2,Idler Pulley Inner Spacer,,,,
+4,Road Wheel Axle,"M8-1.25 threaded rod, 1m length",McMaster,98861A080,$2.57
+14,Bottom Plate Screw,"M3-0.5 x 6mm machine screw, button head, stainless, pack of 100",McMaster,92095A179,$5.06
+1,Deck Top,"sanded plywood, 15/32"" thick, 24"" x 48""",Lowes,,$8.59
+1,Deck Lid,,,,
+2,Deck Side Tube,"aluminum square tube, 3/4"" width, 1/16"" thick, 13' length",McMaster,88875K13,$26.57
+2,Deck End Tube,,,,
+2,Deck Inner Side Tube,,,,
+1,Deck Support Tube,,,,
+12,Deck Corner Bracket,"aluminum angle, 1 1/2"" width, 1/8"" thick, 12"" length",McMaster,8982K13,$5.26
+2,Deck Tube Front Cap,"3D printed, red PETG",,,
+2,Deck Tube Rear Cap,"3D printed, red PETG",,,
+2,LED Headlight,,,,$3.00
+30,Deck Corner Bracket Screw,"M3-0.5 x 30mm machine screw, button head, stainless, pack of 50",McMaster,92095A187,$6.55
+16,Deck Side Plate Screw,"M3-0.5 x 35mm machine screw, button head, stainless, pack of 25",McMaster,92095A201,$4.57
+46,Deck Nut,"M3-0.5 nut, stainless, pack of 50",McMaster,94150A325,$3.08
+10,Deck Top Screw,"M5-0.8 x 35mm machine screw, flat head, stainless, pack of 25",McMaster,92125A222,$7.22
+10,Deck Top Nut,"M5-0.8 lock nut, stainless, pack of 50",McMaster,94205A240,$6.09
+8,Motor Mounting Plate Nut,,,,
+4,Belt Tensioner Plate Nut,,,,
+8,Road Wheel,"70mm skateboard wheel set, black",Amazon,B017YP417Q,$39.98
+16,Road Wheel Bearing,,,,
+8,Road Wheel Inner Spacer,,,,
+2,Idler Pulley,"3D printed, red PETG",,,
+2,Drive Pulley,"3D printed, red PETG",,,
+4,Idler Pulley Bearing,"0608 skateboard bearing, sealed",Amazon,B01N96X5R0,$9.99
+2,Motor Shaft Bearing,,,,
+2,Track Belt,580H200 supercharger belt,Amazon,B00J9U5U70,$33.30
+2,Drive Pulley Shaft Collar,8mm shaft collar,McMaster,57445K24,$10.54
+1,Drive Pulley End Cap,"3D printed, red PETG",,,
+8,Road Wheel Axle Nut,"M8-1.25 lock nut, stainless, pack of 25",McMaster,94205A260,$7.44
+10,Idler Pulley Shaft Nut,,,,
+12,Drive Pulley Threaded Inserts,"heat set inserts, M4 thread, pack of 50",McMaster,94459A150,$9.84
+8,Drive Pulley Threaded Inserts,"heat set inserts, M3 thread, pack of 50",McMaster,94459A140,$9.58
+8,Drive Pulley Set Screw,"M3-0.5 x 25mm machine screw, socket cap, stainless, pack of 100",McMaster,91292A020,$7.23
+12,Drive Pulley Screw,"M4-0.7 x 65mm machine screw, socket cap, stainless, pack of 25",McMaster,91292A317,$9.13
+2,Idler Pulley Shaft,"M8-1.25 x 90mm bolt, socket head, stainless",McMaster,92290A464,$5.10
+2,Brushless Motor,"Turnigy D5035 sensored brushless motor, 125kv",HobbyKing,9192000357-0,$195.76
+2,Motor Controller,HGLRC VESC v4.12,Amazon,B07GFB55NV,$171.98
+1,Battery,"custom 18650 Li-Ion pack, 12S8P, used cells",Ebay,LGDAHA11865,$120.00
+2,Motor Shaft,"8mm keyed shaft, 500mm length",McMaster,1439K221,$30.92
+2,Motor Shaft Key,"2mm x 2mm key stock, 305mm length",McMaster,92095A218,$1.93
+2,Motor Mounting Plate,"aluminum plate, 5/16"" thick, 3"" width, 24"" length",McMaster,8975K89,$15.63
+2,Motor Tensioner Plate,,,,
+2,NEMA 23 Adapter Plate,,,,
+4,Belt Tensioner Plate,,,,
+1,Tensioner Ball Bearing,"8mm ball bearing, steel, pack of 25",McMaster,9292K45,$4.26
+8,Motor Mounting Screws,"M4-0.7 x 10mm machine screw, flat head, stainless, pack of 100",McMaster,92125A190,$7.23
+4,Motor Tensioner Plate Screws,,,,
+8,Motor Plate Mounting Screws,"M5-0.8 x 25mm machine screw, flat head, stainless, pack of 25",McMaster,93395A313,$9.48
+2,Belt Tensioner Bolt,"M8-1.25 x 70mm bolt, socket head, steel",McMaster,91290A215,$3.36
+8,Motor Mounting Plate Washer,"#10 fender washer, stainless, pack of 100",McMaster,90313A200,$6.40
+4,Belt Tensioner Plate Washer,,,,
+8,Motor Mounting Plate Spacer,"nylon spacer, 8mm OD, 5.3mm ID, 6mm length",McMaster,93657A042,$10.56
+2,Belt Tensioner Nut,"M8-1.25 nut, steel, pack of 100",McMaster,90591A161,$5.73
+4,Belt Tensioner Plate Screw,"M5-0.8 x 30mm machine screw, button head, stainless, pack of 25",McMaster,92095A218,$7.64
+,,,,Total,$968.81
